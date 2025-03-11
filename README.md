@@ -41,10 +41,6 @@ HealthRisk360 is a web application designed to predict multiple diseases using a
 - Upload medical reports or enter lifestyle details.
 - View predicted disease risks and recommendations.
 
-## Deployment
-- **Docker**: Containerized with a shell script for easy deployment.
-- **Cloud Hosting**: Can be deployed on AWS, GCP, or Azure.
-- **Inference Optimization**: Uses Triton Inference Server for efficient model execution.
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
@@ -53,5 +49,5 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 This project is licensed under the MIT License.
 
 ## Contact
-For queries, reach out via [your-email@example.com] or open an issue on GitHub.
+For queries, reach out via [mohammadmishal430@gmail.com] or open an issue on GitHub.
 
